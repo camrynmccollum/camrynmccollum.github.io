@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Hi, my name is Camryn McCollum!
 
-Maybe say a some things about yourself.
+I am currently a freshman here at the University of Memphis.
 
-Or maybe what you plan to blog about.
+This is my Blog for AI and Big Data in Cancer!!
