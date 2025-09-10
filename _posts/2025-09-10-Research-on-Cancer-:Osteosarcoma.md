@@ -9,3 +9,5 @@ There are a couple staging systems used for osteosarcoma.  One system is the Mus
 Treating osteosarcoma usually includes surgery and chemotherapy.  The surgery can be done to remove the cancer only (limb sparing cancer), remove the affected arm or leg (amputation), or to remove the lower portion of the leg (rotationplasty).  The chemotherapy is used to treat with strong medicines.  Chemotherapy is usually done before surgery to help make the cancer easier to remove by shrinking the size of it.  Chemotherapy is also used after surgery to help kill any cancer cells that may remain.  In general, the chemotherapy helps relieve pain and slow the growth of cancer.  
 
 Overall, about 60-70% of people diagnosed with osteosarcoma will be cured.  Survival rates usually depend on whether the cancer is localized, metastatic, or if it's relapsed.  If it is localized, the survival rates range from 60-75%.  If it is metastatic, the survival rates range from 5-30%.  If it is relapsed, the outlook depends on the location and timing of the relapse.  The outlook is better when the recurrent tumors can be removed with surgery.  
+
+https://ssl.adam.com/graphics/images/en/9714.jpg 
