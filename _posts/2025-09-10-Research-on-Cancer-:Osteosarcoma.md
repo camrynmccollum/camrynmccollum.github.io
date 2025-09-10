@@ -10,4 +10,5 @@ Treating osteosarcoma usually includes surgery and chemotherapy.  The surgery ca
 
 Overall, about 60-70% of people diagnosed with osteosarcoma will be cured.  Survival rates usually depend on whether the cancer is localized, metastatic, or if it's relapsed.  If it is localized, the survival rates range from 60-75%.  If it is metastatic, the survival rates range from 5-30%.  If it is relapsed, the outlook depends on the location and timing of the relapse.  The outlook is better when the recurrent tumors can be removed with surgery.  
 
-https://ssl.adam.com/graphics/images/en/9714.jpg 
+<img width="400" height="320" alt="image" src="https://github.com/user-attachments/assets/5969da77-b670-4ed9-930d-19c1edc6fb11" />
+
